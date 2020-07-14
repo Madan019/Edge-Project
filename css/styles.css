@@ -10438,6 +10438,15 @@ body {
   z-index: -1;
 }
 
+.our-team .team-content a.ig_id{
+text-decoration: none;
+color: #000;
+}
+.our-team .team-content a.ig_id:hover{
+  color: #1369ce;
+  transition: 0.5s;
+}
+
 .our-team .picture img {
   width: 100%;
   height: auto;
